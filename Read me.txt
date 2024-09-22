@@ -1,0 +1,15 @@
+1) Start the Kafka Server: in 'commands' folder, run `./1-kafka-start.sh`
+
+2) create Kafka Topic: in 'commands' folder, run `./2-kafka-start.sh`
+
+==============================================
+3) restart the hbase: in 'commands' folder, run './-restart-hbase.sh'
+
+4) start producerer project ("Producer.java")
+
+5) start consumer project ("Listener.java")
+
+5.1) start spark SQL Qurey ("SparkSql.java")
+
+===================================================
+6) configure hive run the command shell in 'commands' folder, run shell `5-hive-confg.sh`
