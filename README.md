@@ -1,7 +1,10 @@
 # Project name: Reddit Data Streaming, Analysis, and Visualization
 
 ## Contributors:
-1. 
+1. Fadi Neirat
+2. Basil Abubaker
+3. Abdul Moiz
+4. Sambath Chan
 
 ## Synopsis:
 
