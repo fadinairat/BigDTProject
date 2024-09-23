@@ -59,7 +59,7 @@ ___
     $ echo "create 'redditposts', 'post-info', 'general-info'" | hbase shell
     ```
 
-3. Clone two repositories: [producer](https://github.com/fadinairat/kafka-reddit-producer) and [consumer](https://github.com/fadinairat/kafka-spark-consumer).
+3. Clone two repositories: [producer](https://github.com/fadinairat/BigDTProject/tree/main/JavaCods/producer) and [consumer](https://github.com/fadinairat/BigDTProject/tree/main/JavaCods/kafkaconsumer/kafkaconsumer).
 
 4. Start the Zookeeper server and Kafka server:
     ```bash
